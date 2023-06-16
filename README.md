@@ -24,4 +24,10 @@ Also, the tomato icon was taken from the free icons section of [flaticon.com](ht
 I need to clean up a few of the inefficiencies in the app. I also plan to add a settings panel so users can set their own session times. 
 
 ## Gallery 
-Here are some screenshots of the app. 
+Here are some screenshots of the app:
+
+![focus screen](./docs/focus_screen.png)
+![short break screen](./docs/short_break_screen.png)
+![long break screen](./docs/long_break_screen.png)
+
+
