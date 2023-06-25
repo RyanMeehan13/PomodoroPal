@@ -15,7 +15,7 @@ Honestly,
 
 and that's basically it. So, fire it up, write down a few action items, and get to work.
 
-## Atributions
+## Attributions
 As I've said, this app is basically a clone of [pomofocus.io](https://pomofocus.io/). I thought their graphic design looked great and, being a terrible graphic designer myself, I followed their good example. (Pomofocus.io lawyers please do not sue me). 
 
 Also, the tomato icon was taken from the free icons section of [flaticon.com](https://www.flaticon.com/free-icon/tomato_877712). It's probably also copyrighted in some way, so all credit goes to the owner. (Please don't sue me). 
